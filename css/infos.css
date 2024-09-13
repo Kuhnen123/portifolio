@@ -1,0 +1,12 @@
+#infos {
+    max-width: 50vw;
+}
+
+#primeiro_nome,
+#segundo_nome {
+    margin: 0;
+}
+
+.cor_verde {
+    color: #a95bd6; 
+}

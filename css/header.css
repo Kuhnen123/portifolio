@@ -1,0 +1,90 @@
+header {
+    width: 94vw;
+    height: 15vh;
+    background-color: #c383e7;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2vw; 
+}
+
+
+#logo_proficao {
+    display: flex;
+    align-items: center;
+    width: auto;
+}
+
+#logo_proficao img {
+    width: 15vh;
+    height: 14vh;
+    
+}
+
+#logo_proficao h3 {
+    margin: 0;
+}
+
+
+#btns_paginas {
+    display: flex;
+    gap: 3vw; 
+}
+
+button.btn {
+    background-color: transparent;
+    border: none;
+    padding: 0.5vw 1vw;
+    color: rgb(0, 0, 0);
+    font-size: 1vw;
+    cursor: pointer;
+}
+
+#btn_home {
+    background-color: #c475df;
+}
+
+#btn_formacao {
+    background-color: hwb(285 30% 43%);
+}
+
+#btn_projetos {
+    background-color: hsl(285, 80%, 25%);
+}
+
+section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 75vh; 
+    padding: 2vw;
+}
+
+#img_principal {
+    display: flex;
+    align-items: center;
+    margin-right: 2vw; 
+}
+
+#img_principal img {
+    width: 40vw;
+    height: auto;
+}
+
+#infos {
+    max-width: 50vw;
+}
+
+    #primeiro_nome {
+        font-size: 3rem;
+    
+}
+#segundo_nome {
+    font-size: 2rem;
+    margin: 0;
+}
+
+.cor_verde {
+    color: #a95bd6; 
+}
