@@ -1,0 +1,10 @@
+#img_principal {
+    display: flex;
+    align-items: center;
+    margin-right: 2vw; 
+}
+
+#img_principal img {
+    width: 40vw;
+    height: auto;
+}
