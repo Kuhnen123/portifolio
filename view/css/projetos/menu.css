@@ -1,3 +1,4 @@
+
 #icon_menu{
     width: 6vw;
     height: 8vh;
@@ -21,17 +22,20 @@
     transition: 0.5s ease-in-out;
 }
 
-#icon_menu:hover #barra_um{
+#icon_menu:hover
+ #barra_um{
     transform: rotate(45deg);
     position: absolute;
     top: 3vh;
 }
 
-#icon_menu:hover #barra_dois{
+#icon_menu:hover 
+#barra_dois{
     display: none;
 }
 
-#icon_menu:hover #barra_tres{
+#icon_menu:hover 
+#barra_tres{
     transform: rotate(-45deg);  
     position: absolute;
     top: 3vh;
@@ -46,7 +50,7 @@
     left: -100vw;
     z-index: -1;
 
-    background-color: blue;
+    background-color: rgb(62, 103, 214);
     transition: all 0.3s ease-in-out;
 
 }
