@@ -59,8 +59,8 @@ body {
 }
 
 .card-image {
-    width: 10vw;
-    height: 11vh; 
+    width: 8vw;  /* Reduced width */
+    height: 13vh; /* Reduced height */
     object-fit: cover; 
     border-radius: 8px; 
 }

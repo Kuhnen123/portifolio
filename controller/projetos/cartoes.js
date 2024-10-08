@@ -27,77 +27,77 @@ let cartoes = [
     {
         nome: 'CARTAO 6',
         valor: 'R$90,30',
-        imagem: 'https://viajes.elpais.com.uy/wp-content/uploads/p-30.jpg'
+        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzIyptlw-Hm5wBUpXYaZs3INvkws4Vg9N-UQ&s'
     },
     {
         nome: 'CARTAO 7',
         valor: 'R$48,90',
-        imagem: 'https://img.freepik.com/fotos-premium/as-aguas-vivas-sao-uma-especie-comum-de-agua-viva_14117-9411.jpg'
+        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzIxyLye6a14Dfb0EXkYeUVdOE1nOo_ojiHQX00miSlf5TAXHngJ2-1c769JjuobRz_08&usqp=CAU'
     },
     {
         nome: 'CARTAO 8',
         valor: 'R$65,80',
-        imagem: 'https://img.freepik.com/fotos-premium/uma-agua-viva-e-uma-agua-viva-colorida_902049-13118.jpg'
+        imagem: 'https://tudoparacolorir.com.br/wp-content/uploads/2023/06/imagem-de-borboletas-1.jpg'
     },
     {
         nome: 'CARTAO 9',
         valor: 'R$64,93',
-        imagem: 'https://images.ecycle.com.br/wp-content/uploads/2024/02/21155338/will-drzycimski-ccJwEyfSZfY-unsplash-scaled.jpg.webp'
+        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3FYEcd09ywUSMa4SnXEZQvJ6iVJNJJPsG82WWuCKZ3pVIAE9AE_4byqiHvhr8_HO7Y70&usqp=CAU'
     },
     {
         nome: 'CARTAO 10',
         valor: 'R$60,96',
-        imagem: 'https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nationalgeographic2771878.jpg?w=1600&h=2405&p=top'
+        imagem: 'https://img.freepik.com/fotos-premium/elegante-borboleta-azul-com-asas-estendidas-em-fundo-branco_983093-8413.jpg'
     },
     {
         nome: 'CARTAO 11',
         valor: 'R$87,93',
-        imagem: 'https://fotografias.lasexta.com/clipping/cmsimages02/2016/07/04/6500E72D-EB76-48FE-9D71-C94C6BEC0798/98.jpg?crop=2459,1384,x0,y166&width=1900&height=1069&optimize=high&format=webply'
+        imagem: 'https://img.freepik.com/vetores-gratis/marrom-realista-isolado_1284-3881.jpg'
     },
     {
         nome: 'CARTAO 12',
         valor: 'R$46,50',
-        imagem: 'https://i0.wp.com/endemico.org/wp-content/uploads/2022/06/diane-picchiottino-Fo4_-oKnxjE-unsplash-scaled.jpg?fit=2560%2C1707&ssl=1'
+        imagem: 'https://png.pngtree.com/png-vector/20231108/ourmid/pngtree-purple-butterfly-cute-png-image_10447004.png'
     },
     {
         nome: 'CARTAO 13',
         valor: 'R$80,67',
-        imagem: 'https://www.ecologistasenaccion.org/wp-content/uploads/2023/08/SebastianHernandisCaballero_1.jpg'
+        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3EeWSPaB1OaQ4WzoosscrMFNKnn-j8mnG22Rd5GigG-r-pCroZgd9T6_wDDTOqgIJT0&usqp=CAU'
     },
     {
         nome: 'CARTAO 14',
         valor: 'R$97,90',
-        imagem: 'https://billiken.lat/wp-content/uploads/2024/01/dt.png'
+        imagem: 'https://png.pngtree.com/png-clipart/20230421/original/pngtree-real-picture-of-blue-dream-butterfly-png-image_9071031.png'
     },
     {
         nome: 'CARTAO 15',
         valor: 'R$64,80',
-        imagem: 'https://i3.wp.com/safesea.com.br/midias/2022/04/Incidentescomaguasvivas.jpg'
+        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJ16R57ORgNlMhoGyRmwGDQvy17Kcimi3vp_rVEMyoV-1W0P4UHiEi1fhaxTB1n_jlKw&usqp=CAUg'
     },
     {
         nome: 'CARTAO 16',
         valor: 'R$91,98',
-        imagem: 'https://hardcore.com.br/wp-content/uploads/sites/21/2020/12/queimadura-de-agua-viva.jpg'
+        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQV67T1Tc5WX3LlYqvJQpgXskXi9mba7tNEA&s'
     },
     {
         nome: 'CARTAO 17',
         valor: 'R$833,90',
-        imagem: 'https://super.abril.com.br/wp-content/uploads/2022/08/Conheca-a-agua-viva-que-levou-a-uma-das-maiores-descobertas-da-biologia.jpg?crop=1&resize=1212,909'
+        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-YbnOlLj-nsV08KppXl3-I4qcBKdrULi6i7pyHd98dWBKcUjpLpjoY3RTqngMac2aoQo&usqp=CAU'
     },
     {
         nome: 'CARTAO 18',
         valor: 'R$99,99',
-        imagem: 'https://c.files.bbci.co.uk/13DC9/production/_91535318_b157d151-b95c-42e7-8656-437215cc42d2.jpg'
+        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTjOntOTo4rfFUvAriyxxfSukZJ9bNLnkGIg&s'
     },
     {
         nome: 'CARTAO 19',
         valor: 'R$68,60',
-        imagem: 'https://img.freepik.com/vetores-premium/desenho-a-mao-borboleta-monarca-desenho-animado-vetorial-ilustracao-clipart-fundo-branco_191095-39074.jpg'
+        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvqUqS5v0jTLcc7WbebdoGwKG0WTyE7lDM_g_1ymOVHS-ahwfGRT6KKUMqczt5Zwnt6Pc&usqp=CAU'
     },
     {
         nome: 'CARTAO 20',
         valor: 'R$26,99',
-        imagem: 'https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/a33ad957566c6d4585ae792782c044ef/ab5b475e24e61f7795c1bfb0d6cf55e6.jpg?q=70&w=500'
+        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnGulSLOk4P4YNSsCcboOk6f0QbeRXjOElERMv-QVk1lCjLq2QyfCeMRGIRQg4abrOItY&usqp=CAU'
     }
 ];
 
@@ -111,7 +111,7 @@ function criarCartoes() {
         let img = document.createElement('img');
         img.src = cartao.imagem; 
         img.alt = `Imagem de ${cartao.nome}`; 
-        img.className = 'imagem-cartao'; 
+        img.className = 'imagem-cartao card-image'; 
         divCartao.appendChild(img);
 
         let h1 = document.createElement('h1');
