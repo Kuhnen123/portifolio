@@ -2,27 +2,27 @@ let cartoes = [
     {
         nome: 'CARTAO 1',
         valor: 'R$80,90',
-        imagem: 'https://www.infoescola.com/wp-content/uploads/2020/09/agua-viva_1510632941.jpg'
+        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfPngLiXwU9BaKXFRf6UZK_GmRUnCy9iKDPHkVy5iMP98fj5mYm9odgtTtfYaUylI_P8A&usqp=CAU'
     },
     {
         nome: 'CARTAO 2',
         valor: 'R$84,67',
-        imagem: 'https://afolhatorres.com.br/wp-content/uploads/2018/01/PAG-27-agua-viva.jpg'
+        imagem: 'https://img.freepik.com/fotos-premium/uma-borboleta-azul-com-manchas-pretas-nas-asas_750054-1707.jpg'
     },
     {
         nome: 'CARTAO 3',
         valor: 'R$71,90',
-        imagem: 'https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2022/07/25/1327087602-126039256jelly.jpg'
+        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjNiP4m7PPEkjUS5NPFyz6tPhsNlr5frHaaQnZyOeQ9P5IOWWnJFXQaixWA5oVSjcO9yQ&usqp=CAU'
     },
     {
         nome: 'CARTAO 4',
         valor: 'R$88,67',
-        imagem: 'https://idemais.com.br/wp-content/uploads/2024/01/shutterstock_2136852773-800x600.jpg'
+        imagem: 'https://png.pngtree.com/png-clipart/20230929/original/pngtree-watercolor-purple-butterfly-png-image_13017931.png'
     },
     {
         nome: 'CARTAO 5',
         valor: 'R$94,59',
-        imagem: 'https://static.biologianet.com/2023/03/aguas-vivas-na-agua-azul-do-mar.jpg'
+        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-8xaKW1jwP2qyEyrnA5SAXL9a_DQrg4LkaPT6JTc6X_fhc4P8LEuiyGRx1gPnzjKlTi0&usqp=CAU'
     },
     {
         nome: 'CARTAO 6',
@@ -92,7 +92,7 @@ let cartoes = [
     {
         nome: 'CARTAO 19',
         valor: 'R$68,60',
-        imagem: 'https://assets.folhavitoria.com.br/images/4d967730-9c1b-11ed-a365-5fa6deccb091--minified.jpg'
+        imagem: 'https://img.freepik.com/vetores-premium/desenho-a-mao-borboleta-monarca-desenho-animado-vetorial-ilustracao-clipart-fundo-branco_191095-39074.jpg'
     },
     {
         nome: 'CARTAO 20',
