@@ -2,7 +2,7 @@ let cartoes = [
     {
         nome: 'CARTAO 1',
         valor: 'R$80,90',
-        imagem: 'https://img.lovepik.com/png/20231107/Butterfly-Pink-Beautiful-clip-art-vector-decorative-pattern-spring_524591_wh860.png'
+        imagem: 'https://th.bing.com/th/id/OIP.mUV76jKzqPuLHpjSd7c0eQHaFm?rs=1&pid=ImgDetMain'
     },
     {
         nome: 'CARTAO 2',
