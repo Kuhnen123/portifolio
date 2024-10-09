@@ -2,17 +2,17 @@ let cartoes = [
     {
         nome: 'CARTAO 1',
         valor: 'R$80,90',
-        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfPngLiXwU9BaKXFRf6UZK_GmRUnCy9iKDPHkVy5iMP98fj5mYm9odgtTtfYaUylI_P8A&usqp=CAU'
+        imagem: 'https://img.lovepik.com/png/20231107/Butterfly-Pink-Beautiful-clip-art-vector-decorative-pattern-spring_524591_wh860.png'
     },
     {
         nome: 'CARTAO 2',
         valor: 'R$84,67',
-        imagem: 'https://img.freepik.com/fotos-premium/uma-borboleta-azul-com-manchas-pretas-nas-asas_750054-1707.jpg'
+        imagem: 'https://static.vecteezy.com/system/resources/thumbnails/035/999/208/small/ai-generated-purple-violet-beautiful-butterfly-drawing-watercolor-clip-art-illustration-png.png'
     },
     {
         nome: 'CARTAO 3',
         valor: 'R$71,90',
-        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjNiP4m7PPEkjUS5NPFyz6tPhsNlr5frHaaQnZyOeQ9P5IOWWnJFXQaixWA5oVSjcO9yQ&usqp=CAU'
+        imagem: 'https://static.vecteezy.com/system/resources/thumbnails/049/092/962/small/blue-butterfly-with-detailed-wings-isolated-transparent-png.png'
     },
     {
         nome: 'CARTAO 4',
@@ -22,12 +22,12 @@ let cartoes = [
     {
         nome: 'CARTAO 5',
         valor: 'R$94,59',
-        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-8xaKW1jwP2qyEyrnA5SAXL9a_DQrg4LkaPT6JTc6X_fhc4P8LEuiyGRx1gPnzjKlTi0&usqp=CAU'
+        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQd8Pylp74K5wf637z36FuL73YnJDPLTINXA&s'
     },
     {
         nome: 'CARTAO 6',
         valor: 'R$90,30',
-        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzIyptlw-Hm5wBUpXYaZs3INvkws4Vg9N-UQ&s'
+        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPStrONiKZqP284TkxMT9elqHko1dIYq-_9yFoqv0fdfhxJNufICzBozYamawA7UpQv5c&usqp=CAU'
     },
     {
         nome: 'CARTAO 7',
