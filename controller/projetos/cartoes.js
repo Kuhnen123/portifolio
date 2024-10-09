@@ -2,7 +2,7 @@ let cartoes = [
     {
         nome: 'CARTAO 1',
         valor: 'R$80,90',
-        imagem: 'https://th.bing.com/th/id/OIP.mUV76jKzqPuLHpjSd7c0eQHaFm?rs=1&pid=ImgDetMain'
+        imagem: 'https://png.pngtree.com/png-vector/20231108/ourmid/pngtree-purple-butterfly-cute-png-image_10447004.png'
     },
     {
         nome: 'CARTAO 2',
@@ -22,17 +22,17 @@ let cartoes = [
     {
         nome: 'CARTAO 5',
         valor: 'R$94,59',
-        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQd8Pylp74K5wf637z36FuL73YnJDPLTINXA&s'
+        imagem: 'https://static.vecteezy.com/system/resources/thumbnails/035/999/208/small/ai-generated-purple-violet-beautiful-butterfly-drawing-watercolor-clip-art-illustration-png.png'
     },
     {
         nome: 'CARTAO 6',
         valor: 'R$90,30',
-        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPStrONiKZqP284TkxMT9elqHko1dIYq-_9yFoqv0fdfhxJNufICzBozYamawA7UpQv5c&usqp=CAU'
+        imagem: 'https://png.pngtree.com/png-clipart/20230929/original/pngtree-watercolor-purple-butterfly-png-image_13017931.png'
     },
     {
         nome: 'CARTAO 7',
         valor: 'R$48,90',
-        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzIxyLye6a14Dfb0EXkYeUVdOE1nOo_ojiHQX00miSlf5TAXHngJ2-1c769JjuobRz_08&usqp=CAU'
+        imagem: 'https://static.vecteezy.com/system/resources/thumbnails/049/092/962/small/blue-butterfly-with-detailed-wings-isolated-transparent-png.png'
     },
     {
         nome: 'CARTAO 8',
@@ -42,12 +42,12 @@ let cartoes = [
     {
         nome: 'CARTAO 9',
         valor: 'R$64,93',
-        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3FYEcd09ywUSMa4SnXEZQvJ6iVJNJJPsG82WWuCKZ3pVIAE9AE_4byqiHvhr8_HO7Y70&usqp=CAU'
+        imagem: 'https://png.pngtree.com/png-clipart/20230929/original/pngtree-watercolor-purple-butterfly-png-image_13017931.png'
     },
     {
         nome: 'CARTAO 10',
         valor: 'R$60,96',
-        imagem: 'https://img.freepik.com/fotos-premium/elegante-borboleta-azul-com-asas-estendidas-em-fundo-branco_983093-8413.jpg'
+        imagem: 'https://png.pngtree.com/png-clipart/20230421/original/pngtree-real-picture-of-blue-dream-butterfly-png-image_9071031.png'
     },
     {
         nome: 'CARTAO 11',
