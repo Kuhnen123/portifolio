@@ -4,7 +4,7 @@ let div3 = document.getElementById('div3');
 
 export function trocarMenu() {
     if (menu.style.left === '0vw') {
-        // Fecha o menu
+      
         menu.style.left = '-100vw';
         div1.style.transform = 'rotate(0deg)';
         div1.style.position = 'relative';
@@ -16,7 +16,7 @@ export function trocarMenu() {
         div3.style.position = 'relative';
         div3.style.top = '0vh';
     } else {
-        // Abre o menu
+        
         menu.style.left = '0vw';
         div1.style.transform = 'rotate(45deg)';
         div1.style.position = 'absolute';
