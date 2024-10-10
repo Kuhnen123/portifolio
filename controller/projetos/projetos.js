@@ -2,6 +2,7 @@
 import { trocarMenu } from './menu';
 
 
+
 let menu = document.getElementById('menu');
 let div1 = document.getElementById('div1');
 let div2 = document.getElementById('div2');
