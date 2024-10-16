@@ -1,5 +1,5 @@
 
-import { trocarMenu } from './menu';
+import { trocarMenu } from '../projetos/menu.js';
 
 
 

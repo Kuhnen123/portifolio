@@ -1,5 +1,5 @@
-import { buscarCartoes } from "./cartoes.js";
-import { excluirCartoes } from "./exluir_cartoes.js";
+import { buscarCartoes } from "../cartoes/cartoes.js";
+import { excluirCartoes } from "../formacao/exluir_cartoes.js";
 
 let sectionCartoes = document.getElementById('cartoes');
 

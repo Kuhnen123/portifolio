@@ -1,4 +1,4 @@
-import { criarCartoes } from "./cartoes_criar";
+import { criarCartoes } from "./../cartoes/cartoes_criar.js";
 
 export async function excluirCartoes(index) {
     try {
