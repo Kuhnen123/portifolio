@@ -1,10 +1,10 @@
-import { cadastrarCatao } from "./../../services/cartoes_services.js";
+import { cadastrarCartao } from "./../../services/cartoes_services.js";
 
-let telaCad = document.getElementById('telaCadastro');
+let telaCad = document.getElementById('telacadastro');
 export function escodeTelaCad(){
-    telaCad.style.left = '-100vw';
+    telaCad.style.left = '-150vw';
 }
-export function mostraTelaCad(){
+export function mostraTelacad(){
     telaCad.style.left = '0';
 }
 
@@ -13,7 +13,7 @@ export function recolheDados(){
        let valor = document.getElementById('valor'); 
        let link = document.getElementById('link'); 
 
-       cadastrarCatao(nome.value, valor.value, link.value);
+       cadastrarCartao(nome.value, valor.value, link.value);
        escodeTelaCad();
 
        nome.value = '';

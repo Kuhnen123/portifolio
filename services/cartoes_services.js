@@ -1,6 +1,6 @@
-import { criarCartoes } from "./../controller/cartoes/cartoes_view.js";
+import { criarCartoes } from "./../view/js/formacao/cartao_view.js";
 
-export async function buscarCarotes() {
+export async function buscarCartoes() {
     try {
         const response = await fetch('http://localhost:3000/cartoes');
         const data = await response.json();
@@ -28,7 +28,7 @@ export async function excluirCartoes(index) {
     }
 }
 
-export async function cadastrarCatao(nome, valor, link) {
+export async function cadastrarCartao(nome, valor, link) {
     try {
         const response = await fetch('http://localhost:3000/cartoes', {
             method: 'POST',

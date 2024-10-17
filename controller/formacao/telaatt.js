@@ -4,7 +4,7 @@ let id;
 
 let telaCad = document.getElementById('telaAtt');
 export function escodeTelaAtt(){
-    telaCad.style.right = '-100vw';
+    telaCad.style.right = '-150vw';
 }
 export function mostraTelaAtt(i){
     id = i;
