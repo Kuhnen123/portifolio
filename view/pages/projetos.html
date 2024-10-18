@@ -7,10 +7,10 @@
     <title>Mariana Kuhnen</title>
     <script src="https://kit.fontawesome.com/8801dd93fc.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="./../../view/css/projetos/banner.css">
-    <script type="module" src="./../../controller/projetos/banner.js" ></script>
+    <script type="module" src="./../../controller/projetos/bannner.js" ></script>
     <link rel="stylesheet" href="./../css/projetos/menu.css">
     <script type="module" src="./../../controller/projetos/menu.js"></script>
-<script type="module" src="./../../controller/projetos/projetos.js."></script>
+<script type="module" src="./../../controller/projetos/projetos.js"></script>
 </head>
 
 <body>
@@ -37,18 +37,22 @@
     
     <div id="div-father">
         <section>
-            <nav id="banners">
-                <div style="background-color: #5b94df;" class="banner" id="id-banner1"></div>
-                <div style="background-color: #6b75d1;" class="banner" id="id-banner2"></div>
-                <div style="background-color: #5845c2;" class="banner" id="id-banner3"></div>
-                <div style="background-color: #a364d6;" class="banner" id="id-banner4"></div> </nav>
-            <nav id="btns-banners">
-                <div class="btn-banner" onclick="trocarBanner(0)"></div>
-                <div class="btn-banner" onclick="trocarBanner(1)"></div>
-                <div class="btn-banner" onclick="trocarBanner(2)"></div>
-                <div class="btn-banner" onclick="trocarBanner(3)"></div>
-            </nav>
             
+                <div id="banners">
+                    <div class="banner" id="id-banner1"></div>
+                    <div class="banner" id="id-banner2"></div>
+                    <div class="banner" id="id-banner3"></div>
+                    <div class="banner" id="id-banner4"></div>
+                </div>
+                
+                <div id="btns-banners">
+                    <button class="btn-banner" onclick="trocarBanner(0)"></button>
+                    <button class="btn-banner" onclick="trocarBanner(1)"></button>
+                    <button class="btn-banner" onclick="trocarBanner(2)"></button>
+                    <button class="btn-banner" onclick="trocarBanner(3)"></button>
+                </div>
+                
+
         </section>
         <section>
             <nav id="icon-menu" onclick="trocarMenu()">

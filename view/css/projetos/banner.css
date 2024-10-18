@@ -1,58 +1,50 @@
-
-@import url(./projetos.css);
-
-
 #banners {
     margin-top: 5vh;
-    width: 400vw;
+    width: 400vw; 
     height: 35vh;
-    display: inline;
-
+    position: absolute;
     left: 0;
     top: 27vh;
-    position: absolute;
-
     display: flex;
     flex-direction: row;
-    transition: all 0.3s ease-in-out;
+    transition: transform 0.3s ease-in-out; 
 }
+
 .banner {
     width: 90vw;
     height: 35vh;
-    margin: 0 5vw;
+    margin: 0 5vw; 
     background-color: #f7d8ba; 
-    border: 0;
     border-radius: 2vw;
 }
-#id-banner1 {
-    background-color: #f7d8ba; 
-}
-#id-banner2 {
-    background-color: #c9e7d6; 
-}
-#id-banner3 {
-    background-color: #ffe6e6; 
-}
-#id-banner4 {
-    background-color: #d9e7f7; 
-}
+
+#id-banner1 { background-color: #59abe6;  }
+#id-banner2 { background-color: #3188c5;  }
+#id-banner3 { background-color: #196eaa; }
+#id-banner4 { background-color: #0a4168; }
+
 #btns-banners {
     width: 10vw;
     height: 5vh;
-
     position: absolute;
     left: 45vw;
     top: 62vh;
-    
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
 }
+
 .btn-banner {
     width: 3vh;
     height: 3vh;
     border-radius: 50%;
     background-color: white;
     border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn-banner:hover {
+    background-color: #ddd; 
 }
