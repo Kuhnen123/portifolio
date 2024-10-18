@@ -3,12 +3,17 @@
 @import url(./../header.css);
 
 body{
-    background-color: #5493D2;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
+    margin:0 ;
+    padding:0 ;
+    overflow-x: hidden;
+    background-image: url(https://images.unsplash.com/photo-1554721797-ca00339c8819?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+      margin: 0;
+      height: 100vh;
+  }
 
 #cartoes{
     display: grid;
@@ -45,8 +50,10 @@ body{
 }
 
 .button_card{
+    width: 6vw;
+    height: 2vh;
     border: none;
-    background-color: rgb(163, 224, 246);
+    background-color: #85c2ee;
     border-radius: 2vw;
     color: white;
     padding: 1vw;

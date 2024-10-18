@@ -1,7 +1,7 @@
 header{
     width: 100%;
     height: auto;
-    background-color: rgb(39, 130, 204);
+   
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -33,21 +33,25 @@ header{
 }
 
 button.btn {
+    height: auto;
+    padding: 1vw 2vw;
     background-color: transparent;
     border: none;
-    padding: 1vw 2vw; 
-    color: rgb(0, 0, 0);
-    font-size: 1.2vw;
+    color: rgb(0, 0, 0); 
+    text-align: center;
+    font-size: 1.2vw; 
     cursor: pointer;
-    border-radius: 10px; 
-    transition: background-color 0.3s, transform 0.3s; 
+    border-radius: 10px;
+    transition: background-color 0.3s, transform 0.3s;
+    font-weight: bold; 
 }
 
 button.btn:hover, button.btn:focus {
     background-color: rgba(0, 0, 0, 0.1);
-    outline: none; 
-    transform: scale(1.05); 
+    outline: none;
+    transform: scale(1.05);
 }
+
 
 #btn_home {
     background-color: #59abe6;
@@ -59,6 +63,7 @@ button.btn:hover, button.btn:focus {
 
 
 #btn_projetos {
+
     background-color: #204682;
 }
 
