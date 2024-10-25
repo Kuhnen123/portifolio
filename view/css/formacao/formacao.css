@@ -69,11 +69,11 @@ body{
 .cartao:nth-child(odd) {
     width: 15vw;
     height: 25vh;
-    background-color: #78b8e6; 
+    background-color: #ffffff; 
 }
 
 .cartao:nth-child(even) {
     width: 15vw;
     height: 25vh;
-    background-color: #2b75b3; 
+    background-color: #ffffff; 
 }
