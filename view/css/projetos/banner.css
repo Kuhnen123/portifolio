@@ -21,7 +21,12 @@
 #id-banner1 { background-color: #59abe6;  }
 #id-banner2 { background-color: #3188c5;  }
 #id-banner3 { background-color: #196eaa; }
-#id-banner4 { background-color: #0a4168; }
+#id-banner4 { 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url() ; }
+
 
 #btns-banners {
     width: 10vw;
